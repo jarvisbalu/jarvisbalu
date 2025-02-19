@@ -1,5 +1,4 @@
 <h2>Work Experience:</h2>
-<h3>Alluvium IoT Solutions (April 2022 – Present)</h3>
 <ul>
     <li>Designed and maintained automated test frameworks for web & mobile using Robot Framework, Selenium & Python</li>
     <li>Conducted Android mobile testing to ensure smooth functionality & compatibility</li>
